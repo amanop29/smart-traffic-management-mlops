@@ -54,8 +54,8 @@ This project implements a real-time traffic management dashboard that:
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd MLOPS
+git clone https://github.com/amanop29/smart-traffic-management-mlops.git
+cd smart-traffic-management-mlops
 ```
 
 2. **Create virtual environment**
@@ -234,9 +234,9 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Aman**
+- GitHub: [@amanop29](https://github.com/amanop29)
+- Repository: [smart-traffic-management-mlops](https://github.com/amanop29/smart-traffic-management-mlops)
 
 ## 🙏 Acknowledgments
 
@@ -248,8 +248,8 @@ This project is licensed under the MIT License.
 ## 📞 Support
 
 For issues and questions:
-- Open an issue on GitHub
-- Contact: your.email@example.com
+- Open an issue on [GitHub Issues](https://github.com/amanop29/smart-traffic-management-mlops/issues)
+- View the project: [Repository](https://github.com/amanop29/smart-traffic-management-mlops)
 
 ---
 
